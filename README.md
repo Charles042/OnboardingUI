@@ -1,6 +1,20 @@
-# onboarding_UI
+# Onboarding_UI
+A representation of a UI seen on dribbbles..
 
-A new Flutter project.
+Star⭐ the repo if you like what you see😉.
+
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+* A brain to think 🤓🤓
+
+## 📸 ScreenShots
+
+<img src="ss/flutter_01.png"/>
+<img src="ss/flutter_02.png"/>
+<img src="ss/flutter_03.png"/>
+
 
 ## Getting Started
 
