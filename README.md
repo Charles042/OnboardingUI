@@ -11,9 +11,9 @@ Star⭐ the repo if you like what you see😉.
 
 ## 📸 ScreenShots
 
-<img src="ss/flutter_01.png"/>
-<img src="ss/flutter_02.png"/>
-<img src="ss/flutter_03.png"/>
+<img src="ss/flutter_01.png" width="350"/>
+<img src="ss/flutter_02.png" width="350"/>
+<img src="ss/flutter_03.png" width="350"/>
 
 
 ## Getting Started
